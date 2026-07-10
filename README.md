@@ -23,30 +23,30 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 ### 🛠 &nbsp;Tecnologias Trabajadas
-<div>
-	<p>
-		<p>
-  			<img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  			<strong>HTML5</strong>
-		</p>
-		<p>
-  			<img width="35" height="35" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/><br>
-  			<strong>CSS</strong>
-		</p>
-		<p>
- 			 <img width="35" height="35" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/><br>
-  			<strong>Javascript</strong>
-		</p>
-		<p>
-  			<img width="35" height="35" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><br>
-  			<strong>Typescript</strong>
-		</p>
-		<p>
-  			<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-		management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo" alt="Mysql"/><br>
-  			<strong>My SQL</strong>
-		</p>
-	</p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png"><br>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img width="35" src="https://img.icons8.com/color/48/css3.png"><br>
+      <strong>CSS</strong>
+    </td>
+    <td align="center">
+      <img width="35" src="https://img.icons8.com/color/48/javascript--v1.png"><br>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img width="35" src="https://img.icons8.com/color/48/typescript.png"><br>
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center">
+      <img width="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"><br>
+      <strong>MySQL</strong>
+    </td>
+  </tr>
+</table>
 
 #### 🖥️ Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
