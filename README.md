@@ -15,10 +15,10 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 - 📫 Links de contactos:
 <p>
 	<a href="mailto:juliand_murcia@outlook.com"><img width="30" height="30" img src="https://img.icons8.com/fluency/48/microsoft-outlook-2025.png" alt="Outlook"/></a>
-	<a href="https://juliand-07.github.io/Portafolio/#/home"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHubPortfolio"/></a>
-	<a href="https://github.com/juliand-07"><img src="https://img.shields.io/badge/github-blue?logo=github" alt="GitHub"/></a>
-	<a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://juliand-07.github.io/Portafolio/#/home"><img width="30" height="30" src="https://img.icons8.com/color/48/web-design.png" alt="web-design"/></a>
+	<a href="https://github.com/juliand-07"><img width="30" height="30" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/></a>
+	<a href="https://wa.me/3106396806"><img width="30" height="30" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+	<a href="https://www.linkedin.com/in/juliandmurcia/"><img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
