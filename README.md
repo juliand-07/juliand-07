@@ -7,8 +7,11 @@
 Soy desarrollador de software apasionado por el desarrollo de sitios web y la mejora continua. 
 </p>
 - 👨‍💻 Tengo experiencia en desarrollo web con tecnologia angular y nest js.
+
 - 📚 Me encuentro en constante aprendizaje en fontend y backend.
+  
 - 🎯 Conocimientos en lenguaje Java, Javascript,Typescript.
+  
 - 📫 Links de contactos:
 <p>
 	<a href="mailto:juliand_murcia@outlook.com"><img img src="" alt="Outlook"/></a>
