@@ -24,7 +24,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 
 ### 🛠 &nbsp;Tecnologias Trabajadas
 <p>
-  <img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/><br>
+  <img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
   <strong>HTML5</strong>
 </p>
 <p>
