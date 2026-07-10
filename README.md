@@ -25,7 +25,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 <h2>🛠 Tecnologias Trabajadas</h2>
-<table align="center" style="border= none">
+<table align="center">
   <tr>
     <td align="center">
       <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png"><br>
@@ -52,10 +52,22 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 
 <h2>🖥️ Frameworks</h2>
 
-![Angular](https://img.icons8.com/color/48/angularjs.png)
-![Nestjs](https://img.icons8.com/color/48/nestjs.png)
-![Springboot](https://img.icons8.com/color/48/spring-logo.png)
-
+<table>
+	<tr>
+		<td align="center">
+			<img width="40" src="https://img.icons8.com/color/48/angularjs.png">
+			<strong>Angular</strong>
+		</td>
+		<td align="center">
+			<img width="40" src="https://img.icons8.com/color/48/nestjs.png">
+			<strong>Nestjs</strong>
+		</td>
+		<td align="center">
+			<img width="40" src="https://img.icons8.com/color/48/spring-logo.png">
+			<strong>SpringBoot</strong>
+		</td>
+	</tr>
+</table>
 <h2>🔧 Herramientas Dev </h2>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
