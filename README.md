@@ -24,7 +24,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 	<a href="https://www.linkedin.com/in/juliandmurcia/"><img width="30" height="30"  src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
-### 🛠 &nbsp;Tecnologias Trabajadas
+<h1>🛠 &nbsp;Tecnologias Trabajadas</h1>
 <table align="center">
   <tr>
     <td align="center">
@@ -51,6 +51,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </table>
 
 #### 🖥️ Frameworks
+
 ![Angular](https://img.icons8.com/color/48/angularjs.png)
 ![Nestjs](https://img.icons8.com/color/48/nestjs.png)
 ![Springboot](https://img.icons8.com/color/48/spring-logo.png)
