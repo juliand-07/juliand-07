@@ -6,6 +6,7 @@
 <p>
 Soy desarrollador de software apasionado por el desarrollo de sitios web y la mejora continua. 
 </p>
+
 - 👨‍💻 Tengo experiencia en desarrollo web con tecnologia angular y nest js.
 
 - 📚 Me encuentro en constante aprendizaje en fontend y backend.
@@ -14,11 +15,11 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
   
 - 📫 Links de contactos:
 <p>
-	<a href="mailto:juliand_murcia@outlook.com"><img width="30" height="30" img src="https://img.icons8.com/fluency/48/microsoft-outlook-2025.png" alt="Outlook"/></a>
-	<a href="https://juliand-07.github.io/Portafolio/#/home"><img width="30" height="30" src="https://img.icons8.com/color/48/web-design.png" alt="web-design"/></a>
-	<a href="https://github.com/juliand-07"><img width="30" height="30" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/></a>
-	<a href="https://wa.me/3106396806"><img width="30" height="30" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
-	<a href="https://www.linkedin.com/in/juliandmurcia/"><img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+	<a href="mailto:juliand_murcia@outlook.com"><img width="30" height="30" margin-left="10px" img src="https://img.icons8.com/fluency/48/microsoft-outlook-2025.png" alt="Outlook"/></a>
+	<a href="https://juliand-07.github.io/Portafolio/#/home"><img width="30" height="30" margin-left="10px" src="https://img.icons8.com/color/48/web-design.png" alt="web-design"/></a>
+	<a href="https://github.com/juliand-07"><img width="30" height="30" margin-left="10px" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/></a>
+	<a href="https://wa.me/3106396806"><img width="30" height="30" margin-left="10px" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+	<a href="https://www.linkedin.com/in/juliandmurcia/"><img width="30" height="30" margin-left="10px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
