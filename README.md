@@ -12,7 +12,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 - 📫 Links de contactos:
 <p>
 	<a href="mailto:abdallahelsawy706@gmail.com"><img img src="https://i.blogs.es/c72aee/outlook/1366_2000.jpg" alt="Gmail"/></a>
-	<a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"/></a>
 	<a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
