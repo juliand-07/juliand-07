@@ -69,34 +69,25 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 	</tr>
 </table>
 <h2>🔧 Herramientas Dev </h2>
-<div align="center">
-
-  <span align="center">
-    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"><br>
-    <strong>VS Code</strong>
-  </span>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://img.icons8.com/pulsar-color/48/postman-api.png" alt="Postman"><br>
-    <strong>Postman</strong>
-  </span>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git"><br>
-    <strong>Git</strong>
-  </span>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://img.icons8.com/officel/80/github.png" alt="GitHub"><br>
-    <strong>GitHub</strong>
-  </span>
-
-</div>
+<table align="center">
+	<tr>
+		<td align="center">
+			<img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"><br> 
+			<strong>VsCode</strong> 
+		</td>
+		<td align="center">
+			<img width="40" height="40" src="https://img.icons8.com/pulsar-color/48/postman-api.png" alt="postman"/><br> 
+			<strong>Postman</strong>
+		</td>
+		<td align="center">
+			<img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="git"/><br> 
+			<strong>Git  </strong>
+		</td>
+		<td align="center">
+			<img width="40" height="40" src="https://img.icons8.com/officel/80/github.png" alt="github"/><br> 
+			<strong>GitHub</strong>
+		</td>
+	</tr>
+</table>
 
 
