@@ -28,23 +28,23 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 <table align="center">
   <tr>
     <td align="center">
-      <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png"><br>
+      <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"><br>
       <strong>HTML5</strong>
     </td>
     <td align="center">
-      <img width="35" src="https://img.icons8.com/color/48/css3.png"><br>
+      <img width="35" src="https://img.icons8.com/color/48/css3.png" alt="css"><br>
       <strong>CSS</strong>
     </td>
     <td align="center">
-      <img width="35" src="https://img.icons8.com/color/48/javascript--v1.png"><br>
+      <img width="35" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"><br>
       <strong>JavaScript</strong>
     </td>
     <td align="center">
-      <img width="35" src="https://img.icons8.com/color/48/typescript.png"><br>
+      <img width="35" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"><br>
       <strong>TypeScript</strong>
     </td>
     <td align="center">
-      <img width="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"><br>
+      <img width="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="mysql"><br>
       <strong>MySQL</strong>
     </td>
   </tr>
@@ -55,23 +55,48 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 <table>
 	<tr>
 		<td >
-			<img width="40" src="https://img.icons8.com/color/48/angularjs.png">
+			<img width="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angular">
 			<strong>Angular</strong>
 		</td>
 		<td align="center">
-			<img width="40" src="https://img.icons8.com/color/48/nestjs.png">
+			<img width="40" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs">
 			<strong>Nestjs</strong>
 		</td>
 		<td align="center">
-			<img width="40" src="https://img.icons8.com/color/48/spring-logo.png">
+			<img width="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring">
 			<strong>SpringBoot</strong>
 		</td>
 	</tr>
 </table>
 <h2>🔧 Herramientas Dev </h2>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+  <span align="center">
+    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"><br>
+    <strong>VS Code</strong>
+  </span>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <span align="center">
+    <img src="https://img.icons8.com/pulsar-color/48/postman-api.png" alt="Postman"><br>
+    <strong>Postman</strong>
+  </span>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <span align="center">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git"><br>
+    <strong>Git</strong>
+  </span>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <span align="center">
+    <img src="https://img.icons8.com/officel/80/github.png" alt="GitHub"><br>
+    <strong>GitHub</strong>
+  </span>
+
+</div>
+
 
