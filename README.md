@@ -11,7 +11,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 - 🎯 Conocimientos en lenguaje Java, Javascript,Typescript.
 - 📫 Links de contactos:
 <p>
-	<a href="mailto:juliand_murcia@outlook.com"><img img src="https://i.blogs.es/c72aee/outlook/1366_2000.jpg" alt="Outlook"/></a>
+	<a href="mailto:juliand_murcia@outlook.com"><img img src="" alt="Outlook"/></a>
 	<a href="https://juliand-07.github.io/Portafolio/#/home"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHubPortfolio"/></a>
 	<a href="https://github.com/juliand-07"><img src="https://img.shields.io/badge/github-blue?logo=github" alt="GitHub"/></a>
 	<a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
