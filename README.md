@@ -23,6 +23,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 ### 🛠 &nbsp;Tecnologias Trabajadas
+<div>	
 <p>
   <img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
   <strong>HTML5</strong>
@@ -43,6 +44,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
   <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo" alt="Mysql"/><br>
   <strong>My SQL</strong>
 </p>
+</div>
 
 #### 🖥️ Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
