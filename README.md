@@ -23,27 +23,29 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 ### 🛠 &nbsp;Tecnologias Trabajadas
-<div>	
-<p>
-  <img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <strong>HTML5</strong>
-</p>
-<p>
-  <img width="35" height="35" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/><br>
-  <strong>CSS</strong>
-</p>
-<p>
-  <img width="35" height="35" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/><br>
-  <strong>Javascript</strong>
-</p>
-<p>
-  <img width="35" height="35" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><br>
-  <strong>Typescript</strong>
-</p>
-<p>
-  <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo" alt="Mysql"/><br>
-  <strong>My SQL</strong>
-</p>
+<div>
+	<p>
+		<p>
+  			<img width="35" height="35" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  			<strong>HTML5</strong>
+		</p>
+		<p>
+  			<img width="35" height="35" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/><br>
+  			<strong>CSS</strong>
+		</p>
+		<p>
+ 			 <img width="35" height="35" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/><br>
+  			<strong>Javascript</strong>
+		</p>
+		<p>
+  			<img width="35" height="35" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><br>
+  			<strong>Typescript</strong>
+		</p>
+		<p>
+  			<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-		management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo" alt="Mysql"/><br>
+  			<strong>My SQL</strong>
+		</p>
+	</p>
 </div>
 
 #### 🖥️ Frameworks
