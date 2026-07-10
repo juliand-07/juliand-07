@@ -51,7 +51,9 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </table>
 
 #### 🖥️ Frameworks
-![Laravel](https://img.icons8.com/color/48/angularjs.png)
+![Angular](https://img.icons8.com/color/48/angularjs.png)
+![Nestjs](https://img.icons8.com/color/48/nestjs.png)
+![Springboot](https://img.icons8.com/color/48/spring-logo.png)
 
 #### 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
