@@ -12,6 +12,8 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 - 📚 Me encuentro en constante aprendizaje en fontend y backend.
   
 - 🎯 Conocimientos en lenguaje Java, Javascript,Typescript.
+
+- 💾 Manejo de Base de datos usando My sql 
   
 - 📫 Links de contactos:
 <p>
@@ -23,7 +25,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 ### 🛠 &nbsp;Tecnologias Trabajadas
-<table >
+<table align="center">
   <tr>
     <td align="center">
       <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png"><br>
@@ -49,7 +51,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </table>
 
 #### 🖥️ Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.icons8.com/color/48/angularjs.png)
 
 #### 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
