@@ -54,7 +54,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 
 <table>
 	<tr>
-		<td align="center">
+		<td >
 			<img width="40" src="https://img.icons8.com/color/48/angularjs.png">
 			<strong>Angular</strong>
 		</td>
