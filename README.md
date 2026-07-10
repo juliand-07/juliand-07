@@ -23,7 +23,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
+<p><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>HTML5</p>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
