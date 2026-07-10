@@ -25,7 +25,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 <h2>🛠 Tecnologias Trabajadas</h2>
-<table align="center">
+<table align="center" style="border= none">
   <tr>
     <td align="center">
       <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png"><br>
