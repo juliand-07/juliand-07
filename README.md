@@ -24,7 +24,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 	<a href="https://www.linkedin.com/in/juliandmurcia/"><img width="30" height="30"  src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
-<h1>🛠 &nbsp;Tecnologias Trabajadas</h1>
+<h2>🛠 Tecnologias Trabajadas</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -50,13 +50,13 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
   </tr>
 </table>
 
-#### 🖥️ Frameworks
+<h2>🖥️ Frameworks</h2>
 
 ![Angular](https://img.icons8.com/color/48/angularjs.png)
 ![Nestjs](https://img.icons8.com/color/48/nestjs.png)
 ![Springboot](https://img.icons8.com/color/48/spring-logo.png)
 
-#### 🔧 Tools
+<h2>🔧 Herramientas Dev </h2>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
