@@ -23,7 +23,7 @@ Soy desarrollador de software apasionado por el desarrollo de sitios web y la me
 </p>
 
 ### 🛠 &nbsp;Tecnologias Trabajadas
-<table align="center">
+<table >
   <tr>
     <td align="center">
       <img width="35" src="https://img.icons8.com/color/48/html-5--v1.png"><br>
